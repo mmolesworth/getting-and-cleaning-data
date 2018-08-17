@@ -1,11 +1,9 @@
-==================================================================
 Getting and Cleaning Data Course Project
 Version 1.0
-==================================================================
 Mark Molesworth
 Coursera
 m.molesworth@gmail.com
-==================================================================
+
 This project contains the Human Activity Recognition Using Smartphones Data Set from the UCI Machinie Learning Repository (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 The source data contains measurements from the embedded accelerometer and gyroscope of a SmartPhone. Test and training measurements were performed by 30 participants for six different activities: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS.
